@@ -2,20 +2,6 @@
 
 This repository contains a collection of simple project templates using HTML, CSS, and JavaScript, aimed at helping beginner developers get started with basic projects and improve their web development skills.
 
-## Projects
-
-### Antique Cafe
-
-Antique Cafe is a project template for an antique coffee website, featuring a vintage and elegant design. It includes a homepage with a featured image, a menu section showcasing the café's offerings, and a contact section for customers to get in touch.
-
-### CRYPTO CURRENCY
-
-The Crypto Currency project is a template for a website displaying information about cryptocurrencies. It includes a homepage with a table showing real-time prices and information of major cryptocurrencies like Bitcoin, Ethereum, and others. Additionally, it has a section for charts to visualize the historical performance of cryptocurrencies.
-
-### MediPlus
-
-MediPlus is a project template for a medical clinic website. It offers a homepage with a brief description of the clinic, a services section detailing the services offered, testimonials from satisfied patients, and a contact section for patients to schedule appointments.
-
 ## How to Use
 
 1. Choose the project you want to explore from the list of folders.
